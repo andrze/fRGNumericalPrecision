@@ -3,8 +3,8 @@
 Program analyzing the precision of a numerical implementation of the derivative-expansion-based functional renormalization group in the three-dimensional O(N) models. Copyright (C) 2024 Andrzej Chlebicki
 
 This program serves as an appendix to the article under the same name. 
-* Article status: Upublished
-* ArXiv DOI: Unassigned
+* Article status: Preprint
+* ArXiv ID: [2404.18707](http://arxiv.org/abs/2404.18707)
 * Article DOI: Unassigned
 
 The program takes the form of a Wolfram Language (.wl) package file. As such, it can be run via the terminal command
